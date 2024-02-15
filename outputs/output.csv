@@ -1,0 +1,70 @@
+ActualYearBuilt,1949 DateInspected
+ActualYearBuilt,1949 DateInspected
+Dwelling,Eachside Roof
+Dwelling,Eachside Roof
+Type,Circuitbreaker Fuse Type
+Type,Circuitbreaker Fuse Type
+TotalAmps,125 TotalAmps
+TotalAmps,125 TotalAmps
+Indicatepresenceofanyofthefollowing,
+Indicatepresenceofanyofthefollowing, Clothwiring
+"Branchcircuitaluminumwiring(Ifpresent,describetheusageofallaluminumwiring)",
+"Branchcircuitaluminumwiring(Ifpresent,describetheusageofallaluminumwiring)"," *Ifsinglestrand(aluminumbranch)wiring,providedetailsofallremediation.Separatedocumentationofallworkmustbeprovided."
+Generalconditionoftheelectricalsystem,Satisfactory Unsatisfactory(explain)
+Generalconditionoftheelectricalsystem,Satisfactory Unsatisfactory(explain)
+Panelage,Panelage
+Panelage,Panelage
+Yearlastupdated,Yearlastupdated
+Yearlastupdated,Yearlastupdated
+Brand/Model,GeneralElectric Brand/Model
+Brand/Model,GeneralElectric Brand/Model
+CentralAC,Yes No
+CentralAC,Yes No
+Centralheat,Yes No
+Centralheat,Yes No
+"Ifnotcentralheat,indicateprimaryheatsourceandfueltype",
+"Ifnotcentralheat,indicateprimaryheatsourceandfueltype"," Aretheheating,ventilationandairconditioningsystemsingoodworkingorder? Yes No(explain)"
+DateoflastHVACservicing/inspection,
+DateoflastHVACservicing/inspection, HazardsPresent
+Ageofsystem,5
+Ageofsystem,5
+Yearlastupdated,2016
+Yearlastupdated,2016
+Waterheaterlocation,
+Waterheaterlocation, Exteriorutilitycloset
+Generalconditionofthefollowingplumbingfixturesandconnectionstoapplicances,
+Generalconditionofthefollowingplumbingfixturesandconnectionstoapplicances, Satisfactory Unsatisfactory N/A Satisfactory Unsatisfactory N/A
+AgeofPipingSystem,
+AgeofPipingSystem, Typeofpipes(checkallthatapply)
+Coveringmaterial,ModifiedBitumen Coveringmaterial
+Coveringmaterial,ModifiedBitumen Coveringmaterial
+Roofage(years),25 Roofage(years)
+Roofage(years),25 Roofage(years)
+Remainingusefullife(years),5 Remainingusefullife(years)
+Remainingusefullife(years),5 Remainingusefullife(years)
+Dateoflastroofingpermit,07/03/1996 Dateoflastroofingpermit
+Dateoflastroofingpermit,07/03/1996 Dateoflastroofingpermit
+Dateoflastupdate,07/03/1996 Dateoflastupdate
+Dateoflastupdate,07/03/1996 Dateoflastupdate
+Ifupdated(checkone),Ifupdated(checkone)
+Ifupdated(checkone),Ifupdated(checkone)
+Overallcondition,Overallcondition
+Overallcondition,Overallcondition
+AdditionalComments/Observations(useadditionalpagesifneeded),
+AdditionalComments/Observations(useadditionalpagesifneeded), All4-PointInspectionFormsmustbecompletedandsignedbyaverifiableFlorida-licensedinspector.
+SpecialInstructions,Thissample4-PointInspectionFormincludestheminimumdataneededforUnderwritingtoproperlyevaluateaproperty
+SpecialInstructions,Thissample4-PointInspectionFormincludestheminimumdataneededforUnderwritingtoproperlyevaluateaproperty
+Photosmustaccompanyeach4-PointInspectionForm.Theminimumphotorequirementsinclude,
+Dwelling,Eachside
+Dwelling,Eachside
+Roof,Eachslope
+Roof,Eachslope
+Plumbing,"Waterheater,undercabinetplumbing/drains,exposedvalves"
+Plumbing,"Waterheater,undercabinetplumbing/drains,exposedvalves"
+"Tobeaccepted,allinspectionformsmustbecompleted,signedanddatedbyaverifiableFlorida-licensedprofessional.Examplesinclude",
+"Tobeaccepted,allinspectionformsmustbecompleted,signedanddatedbyaverifiableFlorida-licensedprofessional.Examplesinclude"," Ageneral,residential,orbuildingcontractor"
+Note,"Atrade-specific,licensedprofessionalmaysignoffonlyontheinspectionformsectionfortheirtrade.(e.g.,anelectricianmaysignoffonlyontheelectrical"
+Note,"Atrade-specific,licensedprofessionalmaysignoffonlyontheinspectionformsectionfortheirtrade.(e.g.,anelectricianmaysignoffonlyontheelectrical"
+Thissectionofthe4-PointInspectionFormmustbecompletedwithfulldetails/descriptionsifanyofthefollowingarenotedontheinspection,
+Updates,"Identifythetypesofupdates,datescompletedandbywhom"
+Updates,"Identifythetypesofupdates,datescompletedandbywhom"
